@@ -5,6 +5,12 @@ html,body{
     font-family: 
     Inter,sans-serif;
 }
+
+::selection{
+  background-color: #07AB67;
+  color: #D8E0E9;
+}
+
 header{
     background-color: #07AB67;
     text-align: center;
