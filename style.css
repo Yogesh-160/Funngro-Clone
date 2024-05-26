@@ -28,6 +28,11 @@ nav{
    
    }
 
+   
+
+
+
+
 #image {
     padding-top: 15px;
     margin-left: 5%;
@@ -41,6 +46,12 @@ nav{
     word-spacing: 40px;
     margin-right: 40px;
     
+}
+
+#container a:hover{
+  text-decoration: underline;
+text-decoration-color: #07AB67;
+text-decoration-style: double;
 }
 
 #container  i{
@@ -62,6 +73,8 @@ display: inline-block;
     padding: 15px 25px 15px 25px;
     background-color: #07AB67;
 }
+
+
 
 #container1 {
   position: absolute;
